@@ -3,7 +3,7 @@
 ### How To Use:
   Step 1:
 ```sh
-git clone https://github.com/lina789/ContactsBook.git
+git clone https://github.com/lina789/WeatherApp.git
 ```
   Step 2:
 ```sh
