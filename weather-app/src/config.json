@@ -1,0 +1,9 @@
+{
+    "openWeather": {
+        "endpoint": "https://api.openweathermap.org/data/2.5/weather?",
+        "img": "http://openweathermap.org/img/w/"
+    },
+    "googleGeo": {
+        "endpoint": "https://maps.googleapis.com/maps/api/geocode/json?sensor=true&latlng="
+    }
+}
