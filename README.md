@@ -1,5 +1,10 @@
 # WeatherApp
 
+##### A Simple React Weather App
+
+#### ![](weatherApp.PNG)
+
+
 ### How To Use:
   Step 1:
 ```sh
