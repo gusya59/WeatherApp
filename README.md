@@ -2,7 +2,7 @@
 
 ##### A Simple React Weather App
 
-#### ![](weatherApp.PNG)
+#### ![](weatherApp.png)
 
 
 ### How To Use:
